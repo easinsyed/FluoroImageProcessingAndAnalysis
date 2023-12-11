@@ -1,4 +1,4 @@
-Processing Microscopy Imaging data
+The Art and Science of Microscopy Image Processing
 ===========
 
 ### Overview
