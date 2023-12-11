@@ -6,5 +6,5 @@ Welcome to PyImageProcessing, a dedicated repository for advanced Python scripts
 Contributing
 We welcome contributions! If you have a script, improvement, or bug fix, please feel free to fork the repository and submit a pull request.
 
-Acknowledgments
-This repositroy wouldn't be possible without the Lécuyer Lab and the Institut de recherches cliniques de Montréal (IRCM) 
+Acknowledgements
+This repository wouldn't be possible without the Lécuyer Lab and the Institut de recherches cliniques de Montréal (IRCM) 
